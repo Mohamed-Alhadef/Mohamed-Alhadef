@@ -2,7 +2,7 @@
 
 -👨‍🏭 Atualmente estudando sobre Deselvolvimento WEB
 
--![image](https://user-images.githubusercontent.com/81326238/198133478-8b265042-9818-44cb-af7f-eafa505a5820.png)
+-👨🏽‍💻 Entusiasta em hacking.
 
 
 <div align="center">
