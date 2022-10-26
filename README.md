@@ -2,7 +2,8 @@
 
 -👨‍🏭 Atualmente estudando sobre Deselvolvimento WEB
 
--👨‍🎓 Pretento particpar de projetos envolvendo HTML, CSS e JavaScript
+-![image](https://user-images.githubusercontent.com/81326238/198133478-8b265042-9818-44cb-af7f-eafa505a5820.png)
+
 
 <div align="center">
   <a href="https://github.com/Mohamed-Alhadef">
