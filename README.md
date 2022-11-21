@@ -19,5 +19,3 @@
   <a href="https://instagram.com/davy_alhadef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:davyalhadef02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
-<a href="https://github.com/Mohamed-Alhadef" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/Mohamed-Alhadef?dark&removeLink" alt="Mohamed-Alhadef’s GitHub image" width="600" height="314" />
